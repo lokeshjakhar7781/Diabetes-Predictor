@@ -187,13 +187,20 @@ The split is stratified using the `HbA1c_level` feature to maintain a representa
 
 ## Getting Started
 
-### Install Dependencies
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/lokeshjakhar7781/Diabetes-Predictor.git
+cd Diabetes-Predictor
+```
+
+### 2. Install Dependencies
 
 ```bash
 pip install pandas numpy scikit-learn joblib
 ```
 
-### Run the Project
+### 3. Run the Project
 
 ```bash
 python main.py
